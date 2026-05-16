@@ -1,13 +1,11 @@
 # Tableau
 Data Analytics enthusiast passionate about transforming raw data into meaningful insights using Tableau, Power BI, Python, and SQL. Interested in dashboard creation, data visualization, and business intelligence to support smart decision-making. Continuously learning and building projects in Machine Learning and Analytics.
-
 ___
 # Business Summary Dashboard Analysis
 
 ## Project Overview
 
 This Tableau dashboard provides a detailed business performance analysis using key sales metrics and interactive visualizations. It helps track revenue, shipment performance, country-wise sales distribution, and top-performing salespersons to support better business decision-making.
-
 The dashboard is designed to offer a quick and clear understanding of business operations through clean visual reporting and KPI tracking.
 
 ---
@@ -63,6 +61,5 @@ This Tableau dashboard transforms raw business data into meaningful insights, im
 ---
 
 ## Author
-
 **Shreya G**
 
