@@ -2,7 +2,6 @@
 Data Analytics enthusiast passionate about transforming raw data into meaningful insights using Tableau, Power BI, Python, and SQL. Interested in dashboard creation, data visualization, and business intelligence to support smart decision-making. Continuously learning and building projects in Machine Learning and Analytics.
 ___
 # Business Summary Dashboard Analysis
-
 ## Project Overview
 
 This Tableau dashboard provides a detailed business performance analysis using key sales metrics and interactive visualizations. It helps track revenue, shipment performance, country-wise sales distribution, and top-performing salespersons to support better business decision-making.
@@ -36,7 +35,6 @@ The dashboard is designed to offer a quick and clear understanding of business o
 - Business Intelligence Reporting
 
 ---
-
 ## Dashboard Insights
 
 - Total business revenue reached **$6,183,625**
@@ -53,7 +51,6 @@ The dashboard is designed to offer a quick and clear understanding of business o
 The main objective of this dashboard is to monitor business growth, sales performance, and shipment efficiency using interactive visual analytics. It helps stakeholders identify strong-performing regions and top contributors for strategic planning.
 
 ---
-
 ## Conclusion
 
 This Tableau dashboard transforms raw business data into meaningful insights, improving reporting efficiency and supporting data-driven business decisions through professional visualization techniques.
