@@ -1,6 +1,6 @@
 # Tableau
 Data Analytics enthusiast passionate about transforming raw data into meaningful insights using Tableau, Power BI, Python, and SQL. Interested in dashboard creation, data visualization, and business intelligence to support smart decision-making. Continuously learning and building projects in Machine Learning and Analytics.
-___
+
 # Business Summary Dashboard Analysis
 ## Project Overview
 
@@ -54,9 +54,3 @@ The main objective of this dashboard is to monitor business growth, sales perfor
 ## Conclusion
 
 This Tableau dashboard transforms raw business data into meaningful insights, improving reporting efficiency and supporting data-driven business decisions through professional visualization techniques.
-
----
-
-## Author
-**Shreya G**
-
